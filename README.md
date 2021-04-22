@@ -22,7 +22,7 @@ First use this file and carry on with:
  * PIPELINE_GUI.md  
    
 Optional: DOCKER.md 
-
+<!-- 
 ## Pre-requis pour Centos 7
 ```
 sudo yum -y update   # update all packages 
@@ -90,6 +90,7 @@ the changes take effect.
 ```shell script
    docker ps    # check if docker is up and running 
 ```
+-->
 
 ### Installer docker-compose 
 ```shell script
